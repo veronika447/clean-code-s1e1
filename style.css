@@ -25,7 +25,7 @@ body {
     .demo-info {
         text-align: center;
     }
-    
+
 }
 
 .main-container {
@@ -37,7 +37,7 @@ body {
 .task {
     width: 56%;
     display: inline-block;
-    flex-grow: 1
+    flex-grow: 1;
 }
 
 .task-row-wrapper {
@@ -141,7 +141,7 @@ li>* {
 .incomplete-input,
 .edit-input,
 .completed-input {
-    width: 226px
+    width: 226px;
 }
 
 .delete-img {
@@ -164,12 +164,12 @@ li>* {
 .incomplete-input,
 .edit-input,
 .completed-input {
-    display: none
+    display: none;
 }
 
 .edit-input {
     display: inline-block;
-    width: 224px
+    width: 224px;
 }
 
 .edit-mode-task {
