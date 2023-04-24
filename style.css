@@ -21,9 +21,11 @@ body {
 }
 
 @media (max-width:768px) {
+
     .demo-info {
         text-align: center;
     }
+    
 }
 
 .main-container {
